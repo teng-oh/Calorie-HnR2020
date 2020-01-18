@@ -90,3 +90,16 @@ h3 {
     color: #444;
     text-decoration: none;
 }
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    font-size: large;
+}
+
+.food-btn {
+    padding: 8px 16px;
+    font-size: larger;
+}
